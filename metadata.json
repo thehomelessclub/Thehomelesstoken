@@ -1,13 +1,6 @@
 {
   "name": "The Homeless Whitelist Token",
   "symbol": "THWL",
+  "description": "The Homeless Whitelist Token;)",
   "image": "https://github.com/thehomelessclub/Thehomelesstoken/blob/main/logo.png",
-  "tags": [
-    "Whitelist-Token"
-  ],
-  "extensions": {
-    "discord": "https://discord.gg/Usg8m5Mxa6",
-    "twitter": "https://twitter.com/Thehomeless_nft",
-    "website": "https://thehomeless.club"
-  }
 }
